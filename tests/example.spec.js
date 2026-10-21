@@ -1,6 +1,6 @@
 // @ts-check
 import { test, expect } from '@playwright/test';
-// Package Detail test ================================================================================
+// Package Detail tests ================================================================================
 const pageUrl = 'http://localhost:8282/o/1001/mobile-internet-packages';
 const packagesApiUrl = 'http://localhost:8282/wp-content/themes/mtn_personal/api/packages.json';
 
